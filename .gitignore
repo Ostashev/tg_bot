@@ -1,0 +1,7 @@
+.idea
+.env
+**/pycache/
+venv/
+__pycache__/
+migrations/versions/
+.vscode/
